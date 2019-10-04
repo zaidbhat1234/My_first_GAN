@@ -1,1 +1,1 @@
-# My_first_GAN
+# My First GAN
